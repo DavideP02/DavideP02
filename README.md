@@ -1,5 +1,7 @@
 ## Davide Peccioli
 
+![](davide.jpg)
+
 - Age: 18 yo
 - Languages: C++, Python, Matlab/Octave
 - Others: Latex (my strength), HTML
