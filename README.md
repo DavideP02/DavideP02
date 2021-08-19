@@ -6,7 +6,7 @@
 
 ## Contacts
 
-Sito: [pecciolidavide.it](https://pecciolidavide.it/io)
+Website: [pecciolidavide.it](https://pecciolidavide.it/io)
 
 - Telegram: [https://t.me/DavideP02](https://t.me/DavideP02)
 - Email: [pecciolidavide@gmail.com](mailto:pecciolidavide@gmail.com)
