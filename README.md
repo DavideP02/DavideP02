@@ -1,10 +1,12 @@
 ## Davide Peccioli
 
-![](davide.jpg)
-
+<multicol cols = 2>
+   <p>![](davide.jpg)</p>
+   
 - Age: 18 yo
 - Languages: C++, Python, Matlab/Octave
 - Others: Latex (my strength), HTML
+</multicol>
 
 ## Contacts
 
