@@ -3,9 +3,11 @@
 <multicol cols = 2>
    <img src=davide.jpg></img>
    
+<div>
 - Age: 18 yo
 - Languages: C++, Python, Matlab/Octave
 - Others: Latex (my strength), HTML
+</div>
 </multicol>
 
 ## Contacts
