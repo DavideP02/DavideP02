@@ -6,12 +6,11 @@ Others: Latex (my strength), HTML
 
 ## Contacts
 
-```
-Telegram: [https://t.me/DavideP02](https://t.me/DavideP02)
-Email: [pecciolidavide@gmail.com](mailto:pecciolidavide@gmail.com)
-Instagram: [@davidepeccioli](https://www.instagram.com/davidepeccioli/)
-Twitter: [@davide_peccioli](https://twitter.com/davide_peccioli)
+Sito: [pecciolidavide.it](pecciolidavide.it/io.md)
 
-Sito: [pecciolidavide.it](pecciolidavide.it)
+- Telegram: [https://t.me/DavideP02](https://t.me/DavideP02)
+- Email: [pecciolidavide@gmail.com](mailto:pecciolidavide@gmail.com)
+- Instagram: [@davidepeccioli](https://www.instagram.com/davidepeccioli/)
+- Twitter: [@davide_peccioli](https://twitter.com/davide_peccioli)
 
 
