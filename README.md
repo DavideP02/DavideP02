@@ -1,14 +1,10 @@
 ## Davide Peccioli
 
-<div column-count="3">
 <img src=davide.jpg></img>
 
-<li>
-<ul>Age: 18 yo</ul>
-<ul>Languages: C++, Python, Matlab/Octave</ul>
-<ul>Others: Latex (my strength), HTML</ul>
-</li>
-</div>
+- Age: 18 yo
+- Languages: C++, Python, Matlab/Octave
+- Others: Latex (my strength), HTML
 
 ## Contacts
 
