@@ -1,16 +1,15 @@
-### Hi there 👋
+## Davide Peccioli
 
-<!--
-**DavideP02/DavideP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Age: 18 yo
+Languages: C++, Python, Matlab/Octave
+Others: Latex (my strength), HTML
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram: [https://t.me/DavideP02](https://t.me/DavideP02)
+Email: [pecciolidavide@gmail.com](mailto:pecciolidavide@gmail.com)
+Instagram: [@davidepeccioli](https://www.instagram.com/davidepeccioli/)
+Twitter: [@davide_peccioli](https://twitter.com/davide_peccioli)
+
+Sito: [pecciolidavide.it](pecciolidavide.it)
+
