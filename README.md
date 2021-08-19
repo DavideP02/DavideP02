@@ -15,7 +15,7 @@ Website: [pecciolidavide.it](https://pecciolidavide.it/io)
 
 ---
 
-Fan di:
+Great fan of
 ```
          __                              ___   __        .ama     ,
       ,d888a                          ,d88888888888ba.  ,88"I)   d
