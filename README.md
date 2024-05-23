@@ -2,7 +2,7 @@
 
 <img src=davide.jpg></img>
 
-- Age: 20 yo (born in 2002)
+- Age: 22 yo (born in 2002)
 - Languages: C++, Python, Matlab/Octave
 - Others: Latex (my strength), HTML
 
